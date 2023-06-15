@@ -1,6 +1,6 @@
 # Arthur Santos 😄👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/56595301?s=400&u=77050c7d62bca9d22d9191469df3052f6e0f3c86&v=4)
+![Profile Picture](https://avatars.githubusercontent.com/u/56595301?s=10&u=77050c7d62bca9d22d9191469df3052f6e0f3c86&v=4)
 
 ## Yo, what's up! 👨‍💻
 
