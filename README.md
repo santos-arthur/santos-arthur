@@ -1,7 +1,5 @@
 # Arthur Santos 😄👋
 
-![Profile Picture](https://avatars.githubusercontent.com/u/56595301?s=10&u=77050c7d62bca9d22d9191469df3052f6e0f3c86&v=4)
-
 ## Yo, what's up! 👨‍💻
 
 Welcome to my GitHub profile! I'm Arthur Santos, a code enthusiast based in Brazil. I work as an Analyst Developer at Unifique Telecomunicações, where I bring my skills and enthusiasm to the table. Started my coding journey back in 2018 and got hooked ever since! 🚀
