@@ -1,16 +1,31 @@
-### Hi there 👋
+# Arthur Santos 😄👋
 
-<!--
-**santos-arthur/santos-arthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](https://avatars.githubusercontent.com/u/56595301?s=400&u=77050c7d62bca9d22d9191469df3052f6e0f3c86&v=4)
 
-Here are some ideas to get you started:
+## Yo, what's up! 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm Arthur Santos, a code enthusiast based in Brazil. I work as an Analyst Developer at Unifique Telecomunicações, where I bring my skills and enthusiasm to the table. Started my coding journey back in 2018 and got hooked ever since! 🚀
+
+## Skills 🛠️
+
+Here are some of the tools in my coding backpack:
+
+- **Main Stack**: PHP 🐘
+- **Framework**: Laravel 🏗️
+- **Other Skills**: Node.js 🚀, Docker 🐳, MySQL 🗃️
+- **Project Management**: Git 🐈‍⬛, Scrum 📋
+
+## Current Role 🎯
+
+Currently, I'm proudly serving as a Release Manager for a considerably large team. Besides ensuring smooth releases, I also actively contribute to the restructuring of our development workflows. It's a challenging yet exciting role that keeps me on my toes! ⚙️🚀
+
+## Let's Connect! 🤝
+
+If you're interested in collaborating or just want to chat about programming, feel free to reach out to me. I'm always up for a good coding discussion or a hilarious joke! 😄🔗💬
+
+You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/arthur-vilmar-dos-santos-468671172/) 👥
+- [Twitter](https://twitter.com/ArthurSantosDev) 🐦
+
+Looking forward to connecting with fellow developers and creating awesome things together! Let's code and have some fun! 🎉👨‍💻
