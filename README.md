@@ -10,7 +10,7 @@ Here are some of the tools in my coding backpack:
 
 - **Main Stack**: PHP 🐘
 - **Framework**: Laravel 🏗️
-- **Other Skills**: Node.js 🚀, Docker 🐳, MySQL 🗃️
+- **Other Skills**: Node.js 🚀, Docker 🐳, MySQL 🗃️, React ⚛️, NextJS 🔼, Tailwind 🎨
 - **Project Management**: Git 🐈‍⬛, Scrum 📋
 
 ## Current Role 🎯
