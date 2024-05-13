@@ -12,7 +12,7 @@ Here are some of the tools in my coding backpack:
 - **Framework**: Laravel 🏗️
 - **Other Skills**: Python 🐍, Node.js 🚀, Docker 🐳, MySQL 🗃️, React ⚛️, NextJS 🔼, Tailwind 🎨
 - **Project Management**: Git 🐈‍⬛, Scrum 📋
-- 
+  
 ## What I'm Currently Studying 📚
 
 I'm currently diving deeper into Python and its data structures. Python is such a versatile language, and I'm exploring its applications in various domains, from web development to data analysis and machine learning. 🐍💻
