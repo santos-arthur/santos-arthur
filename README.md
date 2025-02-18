@@ -32,6 +32,6 @@ If you're interested in collaborating or just want to chat about programming, fe
 You can find me on:
 
 - [LinkedIn](https://www.linkedin.com/in/arthur-vilmar-dos-santos-468671172/) 👥  
-- [Twitter](https://twitter.com/ArthurSantosDev) 🐦  
+- [Twitter](https://twitter.com/arthurstos) 🐦  
 
 Looking forward to connecting with fellow developers and creating awesome things together! Let's code and have some fun! 🎉👨‍💻
