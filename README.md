@@ -67,7 +67,7 @@ Engenheiro de software apaixonado do Brasil com sólida experiência em construi
 > Um kit completo de ferramentas para jogadores e mestres de Tormenta 20
 
 **Stack Tecnológico:** Next.js, TypeScript, TailwindCSS  
-**Infraestrutura:** Vercel, GitHub Actions para CI/CD  
+**Infraestrutura:** Google Cloud Platform, GitHub Actions para CI/CD  
 **Funcionalidades:** Criadores de cartas, dados virtuais, ferramentas de personagem e muito mais
 
 Este projeto representa minha contribuição para a comunidade Tormenta 20 - combinando minha paixão por RPG com minhas habilidades técnicas para criar ferramentas práticas para outros jogadores.
