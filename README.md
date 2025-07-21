@@ -82,33 +82,6 @@ Este projeto representa minha contribuição para a comunidade Tormenta 20 - com
 
 ---
 
-## 📊 Estatísticas & Atividade
-
-<div align="center">
-
-### 🔥 Streak de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santos-arthur&theme=dark)
-
-### 📈 Estatísticas Gerais
-![Estatísticas do GitHub do Arthur](https://github-readme-stats.vercel.app/api?username=santos-arthur&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117)
-
-### 💻 Linguagens Mais Usadas
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=santos-arthur&layout=compact&theme=dark&hide_border=true&bg_color=0D1117)
-
-### ⚡ Estatísticas de Atividade
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=santos-arthur&theme=react-dark&hide_border=true&bg_color=0D1117)
-
-</div>
-
-### 🏆 Conquistas GitHub
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=santos-arthur&theme=darkhub&no-frame=true&column=7)
-
-</div>
-
----
-
 ## 🌱 Atualmente Estudando
 
 - **Arquitetura Cloud-Native** - Construindo aplicações modernas na AWS e GCP
